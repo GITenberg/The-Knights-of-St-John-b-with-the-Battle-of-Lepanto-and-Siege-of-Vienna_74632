@@ -1,0 +1,36 @@
+_repo: The-Knights-of-St-John-b-with-the-Battle-of-Lepanto-and-Siege-of-Vienna_74632
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drane, Augusta Theodosia
+    aliases:
+    - Francis Raphael, Mother
+    - Raphael, Francis, Mother
+    - Drane, Francis Raphael, Mother
+    - Drane, Augusta T. (Augusta Theodosia)
+    - Drane, A. T. (Augusta Theodosia)
+    birthdate: 1823
+    deathdate: 1894
+    gutenberg_agent_id: '52670'
+    url: http://www.gutenberg.org/2009/agents/52670
+    wikipedia: https://en.wikipedia.org/wiki/Augusta_Theodosia_Drane
+description: ''
+gutenberg_issued: '2024-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74632'
+language: en
+pgterms:marc904: https://archive.org/details/TheKnightsOfStJohn
+pgterms:marc905: 20190909092336drane
+pgterms:marc906: '1858'
+pgterms:marc907: UK
+production_note: Brian Wilson, John Campbell, Turgut Dincer and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLondon :$bBurns & Oates, $c1858.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Knights of St. John: : $b with the Battle of Lepanto and Siege of   Vienna'
+url: http://www.gutenberg.org/ebooks/74632
